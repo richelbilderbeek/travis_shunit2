@@ -2,7 +2,7 @@ language: generic
 
 install: 
   # shunit2
-  - cd ..; git clone https://github.com/kward/shunit2.git; cd shunit2_example_1
+  - cd ..; git clone https://github.com/kward/shunit2.git; cd travis_shunit2
 
 script: 
   - ./test
