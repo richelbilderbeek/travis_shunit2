@@ -3,6 +3,7 @@
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_shunit2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_shunit2)
+develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_shunit2.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_shunit2)
 
 [shunit2 example](https://github.com/richelbilderbeek/shunit2_examples).
 
