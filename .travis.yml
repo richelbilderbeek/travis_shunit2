@@ -7,7 +7,7 @@ install:
   - my_github=${PWD##*/}  
   - echo $my_github
   # shunit2
-  - cd ..; git clone https://github.com/kward/shunit2.git; cd ${PWD##*/}
+  - cd ..; git clone https://github.com/kward/shunit2.git; cd $my_github
 
 script: 
   - ./test
