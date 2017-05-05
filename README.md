@@ -6,4 +6,4 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_shunit2.sv
 
 [shunit2 example](https://github.com/richelbilderbeek/shunit2_examples).
 
-See [shunit2 examples](https://github.com/richelbilderbeek/shunit2_examples) for more shunit2 examples.
+See [shunit2 examples](https://github.com/richelbilderbeek/shunit2_examples) for more [shunit2 examples](https://github.com/richelbilderbeek/shunit2_examples).
